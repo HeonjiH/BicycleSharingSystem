@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "kdMfOKo8Hmo=",
+  "success": true,
+  "projectFilePath": "/Users/heonji/Desktop/vs_workplace/BicycleSharingSystem/WebApi/BicycleSharingSystem.WebApi.csproj",
+  "expectedPackageFiles": [
+    "/Users/heonji/.nuget/packages/microsoft.aspnetcore.openapi/9.0.0/microsoft.aspnetcore.openapi.9.0.0.nupkg.sha512",
+    "/Users/heonji/.nuget/packages/microsoft.extensions.apidescription.server/9.0.0/microsoft.extensions.apidescription.server.9.0.0.nupkg.sha512",
+    "/Users/heonji/.nuget/packages/microsoft.openapi/1.6.22/microsoft.openapi.1.6.22.nupkg.sha512",
+    "/Users/heonji/.nuget/packages/swashbuckle.aspnetcore/7.1.0/swashbuckle.aspnetcore.7.1.0.nupkg.sha512",
+    "/Users/heonji/.nuget/packages/swashbuckle.aspnetcore.swagger/7.1.0/swashbuckle.aspnetcore.swagger.7.1.0.nupkg.sha512",
+    "/Users/heonji/.nuget/packages/swashbuckle.aspnetcore.swaggergen/7.1.0/swashbuckle.aspnetcore.swaggergen.7.1.0.nupkg.sha512",
+    "/Users/heonji/.nuget/packages/swashbuckle.aspnetcore.swaggerui/7.1.0/swashbuckle.aspnetcore.swaggerui.7.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

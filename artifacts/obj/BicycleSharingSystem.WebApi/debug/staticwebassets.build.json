@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "69BUyMPILW8nFMccfoxjBjnClYFIvMhPMNWolyzkY9w=",
+  "Source": "BicycleSharingSystem.WebApi",
+  "BasePath": "_content/BicycleSharingSystem.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
